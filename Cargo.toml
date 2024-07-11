@@ -1,0 +1,10 @@
+[package]
+name = "lex"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+actix-web = "4"
+random_word = "=0.3.0"
+rand = "0.8.5"
+titlecase = "3.2.0"
